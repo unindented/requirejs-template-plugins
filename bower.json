@@ -1,6 +1,6 @@
 {
   "name":    "requirejs-template-plugins",
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "main":   ["hbs.js", "hgn.js", "jst.js"],
   "ignore": ["grunt", "test", "vendor", "bower.json", "package.json", "Gruntfile.js", "LICENSE", "README.md"],
