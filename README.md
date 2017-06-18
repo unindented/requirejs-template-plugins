@@ -1,4 +1,4 @@
-# RequireJS Template Plugins [![Build Status](https://img.shields.io/travis/unindented/requirejs-template-plugins.svg)](http://travis-ci.org/unindented/requirejs-template-plugins) [![Dependency Status](https://img.shields.io/gemnasium/unindented/requirejs-template-plugins.svg)](https://gemnasium.com/unindented/requirejs-template-plugins) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
+# RequireJS Template Plugins [![Build Status](https://img.shields.io/travis/unindented/requirejs-template-plugins.svg)](http://travis-ci.org/unindented/requirejs-template-plugins) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 Small set of plugins for [RequireJS](http://requirejs.org/) that deal with templating engines such as [Handlebars](http://handlebarsjs.com/) or [Mustache](http://mustache.github.io/).
 
